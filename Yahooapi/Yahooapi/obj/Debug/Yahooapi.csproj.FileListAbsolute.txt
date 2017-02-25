@@ -1,0 +1,6 @@
+c:\users\sharrona\documents\visual studio 2015\Projects\UnrealCourse\Yahooapi\Yahooapi\bin\Debug\Yahooapi.exe.config
+c:\users\sharrona\documents\visual studio 2015\Projects\UnrealCourse\Yahooapi\Yahooapi\obj\Debug\Yahooapi.csprojResolveAssemblyReference.cache
+c:\users\sharrona\documents\visual studio 2015\Projects\UnrealCourse\Yahooapi\Yahooapi\bin\Debug\Yahooapi.exe
+c:\users\sharrona\documents\visual studio 2015\Projects\UnrealCourse\Yahooapi\Yahooapi\bin\Debug\Yahooapi.pdb
+c:\users\sharrona\documents\visual studio 2015\Projects\UnrealCourse\Yahooapi\Yahooapi\obj\Debug\Yahooapi.exe
+c:\users\sharrona\documents\visual studio 2015\Projects\UnrealCourse\Yahooapi\Yahooapi\obj\Debug\Yahooapi.pdb
