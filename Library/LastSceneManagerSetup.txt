@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Unity Samples UI/First.unity
+- path: Assets/Unity Samples UI/Scenes/Layout Groups.unity
   isLoaded: 1
   isActive: 1
